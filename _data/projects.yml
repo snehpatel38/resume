@@ -1,16 +1,28 @@
 # Projects
-# uncomment the urls if you wish to display them, and add your own URL
+# Text-to-Image Generation with Stable Diffusion and LoRA
+- title: Text-to-Image Generation with Stable Diffusion and LoRA
+  summary: >
+    <ul class="resume-item-list">
+      <li>Developed an advanced image generation pipeline using Stable Diffusion XL and Low-Rank Adaptation (LoRA) weights to create high-quality images from text prompts.</li>
+      <li>Optimized generation using advanced schedulers, balancing quality and computational efficiency.</li>
+      <li>Tech-stack: PyTorch, Hugging Face Transformers, Diffusers library.</li>
+    </ul>
 
-# jazznotes.io
-- project: jazznotes.io
-  role: Founder & Primary Developer
-  duration: 2012 &mdash; Present
-  # url: "#"
-  description: Jazz Notes is an open source node/ember app that helps you keep track of your music compositions and new ideas.
+# Automated Text Correction Tool
+- title: Building an AI-Powered Solution for Assisting Visually Impaired Individuals
+  summary: >
+    <ul class="resume-item-list">
+      <li>Built a Python-based tool for automatic typo correction, casing adjustment, and punctuation refinement.</li>
+      <li>Integrated the Mistral AI model for text processing via API and implemented global shortcuts for seamless user interaction.</li>
+      <li>Tech-stack: Pynput, Pyperclip, HTTPX, OLLAMA Local API.</li>
+    </ul>
 
-# Springfield Community Outreach Group
-- project: Springfield Community Outreach Group
-  role: Co-Founder & Organizer
-  duration: 2007 &mdash; Present
-  # url: "#"
-  description: SCOG is a local monthly meetup in Springfield where we share opportunities to volunteer in the community and organize support for families and neighborhoods in need of assistance that the community can provide.
+# AI-Powered Flappy Bird Game
+- title: AI-Powered Flappy Bird Game
+  link: https://github.com/snehpatel38/flappy-bird-ai
+  summary: >
+    <ul class="resume-item-list">
+      <li>Developed an AI-driven Flappy Bird game using the NEAT algorithm for evolving neural networks.</li>
+      <li>Configured the framework to optimize gameplay performance through fitness criteria and mutation rates.</li>
+      <li>Tech-stack: Pygame, NEAT algorithm.</li>
+    </ul>

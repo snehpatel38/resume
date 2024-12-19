@@ -1,19 +1,38 @@
 # Jobs
-# VP of Global Communications
-- company: Springfield International Human Rights Outreach
-  position: VP of Global Communications
-  duration: Oct, 2013 &mdash; Present
-  summary: Write about your core competencies in one or two sentences describing your position. If you held the position for a long time, it could be a longer section, including a couple bullet points	<ul class="resume-item-list"><li>A project you are proud of</li><li>Another awesome project</li><li>or a team or department you worked with</li></ul>
+# Data Science Intern
+- company: Innomatics Research Labs
+  position: Data Science Intern
+  duration: Sept 2024 &mdash; Present
+  summary: >
+    <ul class="resume-item-list">
+      <li>Conducted univariate and bivariate analysis on numerical and categorical datasets to extract actionable insights.</li>
+      <li>Designed machine learning models for diamond price prediction, achieving 268.1 RAE in 4.3s (Random Forest Regression) and 353.8 RAE in 109ms (Decision Tree Regression).</li>
+      <li>Explored system design concepts for search engines, including PageRank and offline/online metrics.</li>
+      <li>Implemented NLP workflows using Vectorization and Bag of Words, creating a spam detection case study.</li>
+      <li>Developed an <a href="https://github.com/snehpatel38/AI_CODE_REVIEWER">AI Code Reviewer application</a> using Google APIs to detect errors and provide recommendations for improvement.</li>
+      <li>Worked on the AI Tutor/Chatbot/GenAI application with the help of RAG and LangChain-based applications.</li>
+    </ul>
 
-# Director of Digital Stratgy
-- company: United Nations Human Rights Council
-  position: Director of Digital Strategy
-  duration:  Jun, 2010 &mdash; Sept, 2013
-  summary: If your stint was shorter, feel free to be brief and just call out the most meaningful points of your role. Be concise, and be meaninful. The person reading just needs enough to want to talk to you more about your experience.
 
+# AI/ML Intern
+- company: IBM SkillsBuild
+  position: AI/ML Intern
+  duration: July 2024 &mdash; August 2024
+  summary: >
+    <ul class="resume-item-list">
+      <li>Leveraged Watson Studio and Watson Assistant to implement AI/ML projects on IBM Cloud.</li>
+      <li>Built a kidney stone prediction model, achieving 81% accuracy using Watson Machine Learning.</li>
+      <li>Designed a chatbot with watsonx Assistant that helps users make eco-friendly purchasing decisions, reduce waste, and effectively recycle and repurpose items.</li>
+    </ul>
 
-# Communications Coordinator
-- company: Springfield Women & Children's Center
-  position: Communications Coordinator
-  duration:   Jun, 2008  &mdash; May, 2010
-  summary: Led communication efforts across digital and traditional media channels for marketing and public relations, internal communication strategies, and coordinated support programs for the recipients of the center's services.
+# Data Analyst and Machine Learning Intern
+- company: INFOLABZ
+  position: Data Analyst and Machine Learning Intern
+  duration: June 2024 &mdash; July 2024
+  summary: >
+    <ul class="resume-item-list">
+      <li>Created Python scripts for data extraction from multiple APIs, transforming raw data into structured DataFrames, and ensuring seamless storage in CSV formats.</li>
+      <li>Implemented data analysis and EDA utilizing advanced capabilities of Pandas, NumPy, Matplotlib, and Seaborn.</li>
+      <li>Designed and implemented sophisticated machine learning models, including Regression and Random Forest, to tackle complex predictive challenges.</li>
+      <li>Worked on CNN for image identification tasks.</li>
+    </ul>
