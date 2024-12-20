@@ -15,7 +15,7 @@
   skills: MySQL, PostgreSQL, MongoDB
 
 - category: Tools & Platforms
-  skills: Jupyter Notebook, Google Colab, IBM Watson Studio, Git, Docker, AWS, Azure
+  skills: Jupyter Notebook, Google Colab, IBM Watson Studio, Git, Docker, AWS
 
 - category: Other Skills
   skills: Flask, FastAPI, OpenCV, Tkinter, API Integration, CI/CD Pipelines, Feature Engineering, Data Preprocessing

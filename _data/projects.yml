@@ -9,12 +9,22 @@
     </ul>
 
 # Automated Text Correction Tool
-- title: Building an AI-Powered Solution for Assisting Visually Impaired Individuals
+- title: Automated Text Correction Tool
   summary: >
     <ul class="resume-item-list">
       <li>Built a Python-based tool for automatic typo correction, casing adjustment, and punctuation refinement.</li>
       <li>Integrated the Mistral AI model for text processing via API and implemented global shortcuts for seamless user interaction.</li>
       <li>Tech-stack: Pynput, Pyperclip, HTTPX, OLLAMA Local API.</li>
+    </ul>
+
+- title: Building AI-Powered Solution for Assisting Visually Impaired Individuals
+  link: https://github.com/snehpatel38/Building-AI-Powered-Solution-for-Assisting-Visually-Impaired-Individuals
+  summary: >
+    <ul class="resume-item-list">
+      <li>Designed and implemented a solution leveraging computer vision and NLP to assist visually impaired individuals in understanding their surroundings.</li>
+      <li>Integrated image captioning models and object detection techniques for real-time assistance.</li>
+      <li>Optimized performance for low-latency, ensuring practical usability on portable devices.</li>
+      <li>Tech-stack: OpenCV, TensorFlow, PyTorch, Flask, Natural Language Toolkit (NLTK).</li>
     </ul>
 
 # AI-Powered Flappy Bird Game
